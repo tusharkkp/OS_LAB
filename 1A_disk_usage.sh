@@ -1,23 +1,5 @@
 #!/bin/bash
 
-# ============================================================
-# OS LAB ASSIGNMENT 1A
-# Task 1: Disk Space Usage Monitoring
-# ============================================================
-#
-# This script:
-# 1. Displays disk-space usage dynamically using df.
-# 2. Allows the user to display the complete table.
-# 3. Allows the user to select specific columns.
-# 4. Allows the user to change the warning threshold.
-# 5. Displays warnings for filesystems exceeding the threshold.
-# 6. Validates user input.
-#
-# Required columns:
-# File System, Total, Used, Available, Usage %, Mount Point
-# ============================================================
-
-
 # ------------------------------------------------------------
 # Default warning threshold
 # ------------------------------------------------------------
